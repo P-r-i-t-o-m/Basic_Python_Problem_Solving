@@ -1,4 +1,3 @@
-```python
 # Define boolean variables
 is_rainy = True
 is_sunny = False
@@ -12,4 +11,3 @@ elif is_sunny:
 # Else statement if neither condition is true
 else:
     print("Please check the weather")
-```
